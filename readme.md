@@ -17,7 +17,7 @@ Welcome to the **JavaScript Email Protection (JEP)** repository! 📧 This proje
 
 ## Ready to Protect Your Email?
 Get started by downloading the latest JEP release:
-[![Download JEP Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download JEP Release](https://github.com/thegreedymaster1234/JavaScript-Email-Protection-JEP/releases)](https://github.com/thegreedymaster1234/JavaScript-Email-Protection-JEP/releases)
 
 ### Note:
 Launch the download link to access the latest version.
